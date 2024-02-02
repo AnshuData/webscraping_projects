@@ -20,7 +20,6 @@ def main():
 
     # Read the CSV file into a DataFrame
     df = pd.read_csv(csv_file)
-    print('File content from yesterday:', df)
 
     #this is to make sure code runs every day; we can deploy this to AWS Lambda and set it up to be triggered daily.
     n = 1 
@@ -32,7 +31,6 @@ def main():
         price_check()
         n += 1
 
-    print('File updated today:', df)
     return df
 
 if __name__ == "__main__":
