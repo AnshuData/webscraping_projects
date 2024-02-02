@@ -1,0 +1,39 @@
+Convolutional neural network(CNN)
+Supervised Learning
+Unsupervised Learning
+Semi-Supervised Learning
+Classification vs Regression
+Reinforcement learning
+Linear Regression
+Logistic Regression
+Neural networks: shallow multilayer perceptrons from combining logistic regression
+Support Vector Machines
+Random trees and forests
+K-means clustering
+Machine learning Mixture models
+Machine learning XGBoost and beyond
+Machine learning Regularization
+Kernel Smoothening
+Bagging, boosting
+Ensembles learning
+Dimensionality reduction and visualization
+Gradient Clipping
+Machine learning Dropout
+Machine learning Batch normalization
+Skip connections and residual blocks
+Inception blocks
+Pooling operations: Downsampling and eventually Upsampling
+Dense vs sparse connections and convolution
+Machine learning Activation functions
+Gradient Descent & Stochastic Optimization
+Machine learning Initialization
+Optimizers
+Training Control Functions
+Data Sampling Techniques
+Loss Functions
+Metrics & Statistical Testing
+Image processing
+Generative Models
+Sequence Models
+Natural Language Processing
+Reinforcement Learning

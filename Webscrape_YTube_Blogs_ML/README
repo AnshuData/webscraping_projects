@@ -1,0 +1,20 @@
+# Webscrape Youtube, medium and tutorials point websotes to collect contents for ML topics, refine them using ML to use as recommendation content for learners
+
+How to run content gatherer:
+
+1. Create conda environment (create conda env --name content_gen)
+
+2. Conda activate content_gen
+
+3. conda install pip 
+
+4. pip install -r requirement.txt
+
+5. run python main.py 
+
+6. The script takes file containing list of ML-topics as input
+
+7. Creates output.json with topics and the links for their contents.
+
+
+

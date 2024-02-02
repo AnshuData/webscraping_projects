@@ -1,0 +1,102 @@
+{
+    "Supervised Learning": {
+        "youtube": "https://www.youtube.com/watch?v=1FZ0A1QCMWc",
+        "medium": "https://medium.com/@jorgesleonel/supervised-learning-c16823b00c13",
+        "towardsdatascience": "https://towardsdatascience.com/a-brief-introduction-to-supervised-learning-54a3e3932590"
+    },
+    "Classification vs Regression": {
+        "youtube": "https://www.youtube.com/watch?v=TJveOYsK6MY",
+        "medium": "https://medium.com/quick-code/regression-versus-classification-machine-learning-whats-the-difference-345c56dd15f7",
+        "towardsdatascience": "https://towardsdatascience.com/classification-regression-and-prediction-whats-the-difference-5423d9efe4ec"
+    },
+    "Convolutional neural network(CNN)": {
+        "youtube": "https://www.youtube.com/watch?v=YRhxdVk_sIs",
+        "medium": "https://medium.com/@RaghavPrabhu/understanding-of-convolutional-neural-network-cnn-deep-learning-99760835f148",
+        "towardsdatascience": "https://towardsdatascience.com/a-comprehensive-guide-to-convolutional-neural-networks-the-eli5-way-3bd2b1164a53"
+    },
+    "Unsupervised Learning": {
+        "youtube": "https://www.youtube.com/watch?v=JnnaDNNb380",
+        "medium": "https://medium.com/analytics-vidhya/beginners-guide-to-unsupervised-learning-76a575c4e942",
+        "towardsdatascience": "https://towardsdatascience.com/the-complete-guide-to-unsupervised-learning-ecf8b676f2af"
+    },
+    "Semi-Supervised Learning": {
+        "youtube": "https://www.youtube.com/watch?v=b-yhKUINb7o",
+        "medium": "https://medium.com/analytics-vidhya/a-primer-on-semi-supervised-learning-part-1-fe1f20bd4369",
+        "towardsdatascience": "https://towardsdatascience.com/a-friendly-intro-to-semi-supervised-learning-3783c0146744"
+    },
+    "Reinforcement learning": {
+        "youtube": "https://www.youtube.com/watch?v=JgvyzIkgxF0",
+        "medium": "https://medium.com/ai%C2%B3-theory-practice-business/reinforcement-learning-part-1-a-brief-introduction-a53a849771cf",
+        "towardsdatascience": "https://towardsdatascience.com/reinforcement-learning-101-e24b50e1d292"
+    },
+    "Linear Regression": {
+        "youtube": "https://www.youtube.com/watch?v=zPG4NjIkCjc",
+        "medium": "https://medium.com/analytics-vidhya/understanding-the-linear-regression-808c1f6941c0",
+        "towardsdatascience": "https://towardsdatascience.com/linear-regression-detailed-view-ea73175f6e86"
+    },
+    "Logistic Regression": {
+        "youtube": "https://www.youtube.com/watch?v=yIYKR4sgzI8",
+        "medium": "https://medium.com/data-science-group-iitr/logistic-regression-simplified-9b4efe801389",
+        "towardsdatascience": "https://towardsdatascience.com/introduction-to-logistic-regression-66248243c148"
+    },
+    "Neural networks: shallow multilayer perceptrons from combining logistic regression": {
+        "youtube": "https://www.youtube.com/watch?v=ncZ5iSZekVQ",
+        "medium": "https://medium.com/mlearning-ai/neural-networks-from-scratch-logistic-regression-part-1-d8cfc4a2fb3b",
+        "towardsdatascience": "https://towardsdatascience.com/multilayer-perceptron-explained-with-a-real-life-example-and-python-code-sentiment-analysis-cb408ee93141"
+    },
+    "Support Vector Machines": {
+        "youtube": "https://www.youtube.com/watch?v=_YPScrckx28",
+        "medium": "https://medium.com/machine-learning-101/chapter-2-svm-support-vector-machine-theory-f0812effc72",
+        "towardsdatascience": "https://towardsdatascience.com/support-vector-machines-svm-c9ef22815589"
+    },
+    "Random trees and forests": {
+        "youtube": "https://www.youtube.com/watch?v=v6VJ2RO66Ag",
+        "medium": "https://medium.com/@harshdeepsingh_35448/understanding-random-forests-aa0ccecdbbbb",
+        "towardsdatascience": "https://towardsdatascience.com/understanding-random-forest-58381e0602d2"
+    },
+    "K-means clustering": {
+        "youtube": "https://www.youtube.com/watch?v=4b5d3muPQmA",
+        "medium": "https://medium.com/data-folks-indonesia/step-by-step-to-understanding-k-means-clustering-and-implementation-with-sklearn-b55803f519d6",
+        "towardsdatascience": "https://towardsdatascience.com/k-means-a-complete-introduction-1702af9cd8c"
+    },
+    "Machine learning Mixture models": {
+        "youtube": "https://www.youtube.com/watch?v=EWd1xRkyEog",
+        "medium": "https://medium.com/swlh/gaussian-mixture-models-gmm-1327a2a62a",
+        "towardsdatascience": "https://towardsdatascience.com/gaussian-mixture-models-explained-6986aaf5a95"
+    },
+    "Machine learning XGBoost and beyond": {
+        "youtube": "https://www.youtube.com/watch?v=OtD8wVaFm6E",
+        "medium": "https://medium.com/analytics-vidhya/the-recent-queen-of-ai-algos-xgboost-and-its-future-22d6df3cd206",
+        "towardsdatascience": "https://towardsdatascience.com/interpretable-machine-learning-with-xgboost-9ec80d148d27"
+    },
+    "Machine learning Regularization": {
+        "youtube": "https://www.youtube.com/watch?v=Q81RR3yKn30",
+        "medium": "https://medium.com/analytics-vidhya/regularization-in-machine-learning-d5a867fd6fc",
+        "towardsdatascience": "https://towardsdatascience.com/tagged/regularization"
+    },
+    "Kernel Smoothening": {
+        "youtube": "https://www.youtube.com/watch?v=KsxxGH9W2S0",
+        "medium": "https://medium.com/analytics-vidhya/kernel-density-estimation-kernel-construction-and-bandwidth-optimization-using-maximum-b1dfce127073",
+        "towardsdatascience": "https://towardsdatascience.com/kernel-density-estimation-and-non-parametric-regression-ecebebc75277"
+    },
+    "Bagging, boosting": {
+        "youtube": "https://www.youtube.com/watch?v=eLt4a8-316E",
+        "medium": "https://medium.com/fintechexplained/bagging-vs-boosting-in-machine-learning-8d7512d782e0",
+        "towardsdatascience": "https://towardsdatascience.com/ensemble-methods-bagging-boosting-and-stacking-c9214a10a205"
+    },
+    "Ensembles learning": {
+        "youtube": "https://www.youtube.com/watch?v=WtWxOhhZWX0",
+        "medium": "https://medium.com/ml-research-lab/ensemble-learning-the-heart-of-machine-learning-b4f59a5f9777",
+        "towardsdatascience": "https://towardsdatascience.com/ensemble-methods-bagging-boosting-and-stacking-c9214a10a205"
+    },
+    "Dimensionality reduction and visualization": {
+        "youtube": "https://www.youtube.com/watch?v=4KuF5HRAQn8",
+        "medium": "https://medium.com/analytics-vidhya/understanding-dimensional-reduction-321d4f1f770d?source=rss----7219b4dc6c4c--dimensionality_reduction",
+        "towardsdatascience": "https://en.wikipedia.org/wiki/Dimensionality_reduction"
+    },
+    "Gradient Clipping": {
+        "youtube": "https://www.youtube.com/watch?v=KrQp1TxTCUY",
+        "medium": "https://medium.com/hackernoon/gradient-clipping-57f04f0adae",
+        "towardsdatascience": "https://towardsdatascience.com/what-is-gradient-clipping-b8e815cdfb48"
+    }
+}
