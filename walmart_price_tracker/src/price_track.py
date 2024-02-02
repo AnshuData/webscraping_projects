@@ -21,13 +21,7 @@ def initialize_csv_file(filename="./files/price_check.csv", header=["book_title"
     with open(filename, "w", newline="", encoding="UTF8") as f:
         writer = csv.writer(f)
         writer.writerow(header)
-
-
-import csv
-import requests
-from bs4 import BeautifulSoup
-import re
-import datetime
+        
 
 def price_check():
     """
